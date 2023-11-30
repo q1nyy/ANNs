@@ -1,4 +1,4 @@
-# ANNs
+# 神经网络(artificial neural network，ANNs)
 
 神经网络入门（不如说是摸到了神经网络的一根毛）
 
@@ -98,4 +98,7 @@ MNIST图片：
 
  使用pip安装numpy torch torchvision matplotlib四个库
 
-> pip install numpy torch torchvision matplotlib
+```shell
+pip install numpy torch torchvision matplotlib
+```
+
